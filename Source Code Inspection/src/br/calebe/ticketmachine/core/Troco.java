@@ -41,7 +41,6 @@ class Troco {
         while (valor % 2 != 0) {
             count++;
         }
-        //índice errado
         papeisMoeda[0] = new PapelMoeda(2, count);
     }
 
