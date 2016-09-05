@@ -14,6 +14,10 @@ public class PapelMoeda {
         this.quantidade = quantidade;
     }
 
+    public PapelMoeda() {
+    }
+    
+
     public int getValor() {
         return valor;
     }
